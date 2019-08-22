@@ -1,0 +1,189 @@
+1  ls
+    2  cd Documents/
+    3  mkdir metodos_numericos
+    4  cd metodos_numericos/
+    5  git init
+    6  git status
+    7  git pull
+    8  git remote add origin https://github.com/GabrielMissael/Metodos_Numericos.git
+    9  git pull
+   10  git status
+   11  gedit Hello
+   12  git status
+   13  git add .
+   14  git commit -m "first commit"
+   15  git config --global user.name "GabrielMissael"
+   16  git config --global user.email missael_gabo@hotmail.com
+   17  git commit -m "first commit"
+   18  git push -u origin master
+   19  clear
+   20  pwd
+   21  ls
+   22  gedit bashc2
+   23  rm bashc2
+   24  ls
+   25  gedit script5.sh
+   26  ls
+   27  gedit script6.sh
+   28  gedit script6.sh &
+   29  bash script6.sh 
+   30  cp script6.sh script7.sh
+   31  ls
+   32  gedit script7.sh &
+   33  basch script7.sh 
+   34  bash script7.sh 
+   35  ls
+   36  bash script7.sh 
+   37  clear
+   38  bash script7.sh 
+   39  ls
+   40  cp script7.sh script8.sh
+   41  gedit script8.sh &
+   42  bash script8.sh 
+   43  cp script8.sh script8b.sh
+   44  ls
+   45  gedit script8b.sh &
+   46  bash script8b.sh 
+   47  cp script8b.sh script9a.sh
+   48  gedit script9a.sh 
+   49  gedit script9a.sh &
+   50  bash script9a.sh 
+   51  cp script9a.sh script9b.sh
+   52  gedit script9b.sh
+   53  ls
+   54  ls -lh
+   55  gedir script9b.sh 
+   56  gedit script9b.sh &
+   57  bash script9b.sh 
+   58  cp script9b.sh script9c.sh 
+   59  gedit script9c.sh &
+   60  pwd
+   61  bash script9c.sh 
+   62  mkdir cosas
+   63  cd cosas/
+   64  vi cosas2
+   65  ls
+   66  cd ..
+   67  ls
+   68  ls -lh
+   69  bash script9c.sh 
+   70  ls -1r
+   71  ls
+   72  bash script9c.sh 
+   73  ls -1r
+   74  cd cosas/
+   75  ls
+   76  cd -
+   77  ls
+   78  rm Hello 
+   79  ls
+   80  ls -lh
+   81  mv script8.sh script8a.sh
+   82  ls
+   83  ls -1
+   84  cp script9c.sh script10.sh
+   85  gedit script10.sh &
+   86  bash script10.sh 
+   87  bash script10.sh  
+   88  bash script10.sh       4
+   89  bash script10.sh
+   90  ls -1
+   91  mv script6.sh script06.sh
+   92  mv script7.sh script07.sh
+   93  ls -1
+   94  mv script8a.sh script08a.sh
+   95  cp script10.sh script11.sh
+   96  gedit script11.sh &
+   97  bash script11.sh 
+   98  ls -1
+   99  mv script8b.sh script08b.sh
+  100  ls -1
+  101  cp script11.sh script12.sh
+  102  gedit script12.sh &+
+  103  bash script12.sh 
+  104  ls -1
+  105  mv script9a.sh script09a.sh
+  106  mv script9b.sh script09b.sh
+  107  mv script9c.sh script09c.sh
+  108  ls -1
+  109  git status
+  110  git add .
+  111  git status
+  112  git commit -m "Segunda clase en el lab"
+  113  git status
+  114  git pull
+  115  git commit
+  116  git push
+  117  hsitory
+  118  history
+  119  gedit comandos2 &
+  120  git add .
+  121  git commit -m "Comandos clase 2"
+  122  git status
+  123  git push
+  124  git status
+  125  cd
+  126  clear
+  127  ls
+  128  cd Documents/
+  129  ls
+  130  cd metodos_numericos/
+  131  git pull 
+  132  ls
+  133  gcc algoritmo1.c 
+  134  ls
+  135  ./a
+  136  ./a.out 
+  137  clear
+  138  ls ./algoritmo1.c 
+  139  ls
+  140  more algoritmo1.c 
+  141  gcc algoritmo1.c -o ejecutable1
+  142  ls
+  143  rm a.out 
+  144  ls
+  145  clear
+  146  ./ejecutable1 
+  147  ls
+  148  ls -lh
+  149  ls
+  150  ls -lh
+  151  rm drive-download-20190822T170925Z-001.zip 
+  152  clear
+  153  ls -lh
+  154  more script14.sh 
+  155  bash script14.sh 
+  156  ./script14.sh
+  157  bash script14.sh 
+  158  clear
+  159  ls
+  160  sort -r -t  " " -k 3 datos1.dat 
+  161  cat datos1.dat datos2.dat 
+  162  paste datos1.dat datos2.dat 
+  163  split -l 4 datos1.dat 
+  164  ls
+  165  ls -lh
+  166  rm xaa xab xac
+  167  ls -lh
+  168  clear
+  169  mkdir {a,b}{1,2}
+  170  ls
+  171  rm a1 a2 b1 b2
+  172  rm -rf {a,b}{1,2}
+  173  ls
+  174  awk '{print NR $0}' datos1.dat 
+  175  gnuplot
+  176  ls
+  177  git status
+  178  git add .
+  179  git commit -m "Clase 3, añadi mas scripts"
+  180  git status
+  181  git push
+  182  clear
+  183  git status
+  184  more algoritmo1.c 
+  185  ./ejecutable1 1.5 0.000001 100
+  186  ./ejecutable1 
+  187  clear
+  188  history => comandos3
+  189  history 
