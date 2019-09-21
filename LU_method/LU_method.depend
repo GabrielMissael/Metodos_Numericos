@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1568773377 source:c:\users\missa\documents\universidad ug\semestre3\metodos_numericos\programas\lu_method\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567460730 source:c:\users\missa\documents\universidad ug\semestre3\metodos_numericos\programas\punto_fijo_ejemplo1\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<math.h>
+
